@@ -1,1 +1,2 @@
-Select * from 
+Select * from employees limit 5;
+
